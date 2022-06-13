@@ -1,0 +1,10 @@
+{
+  "domain": "template_water_heater",
+  "name": "Template Water Heater",
+  "config_flow": false,
+  "requirements": [],
+  "iot_class": "calculated",
+  "dependencies": ["switch", "sensor"],
+  "codeowners": ["@devbis"],
+  "version": "0.1.0"
+}
